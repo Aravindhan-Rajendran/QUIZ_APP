@@ -42,17 +42,33 @@ body {
 .card-img-top {
   height: 300px;
 }
+#ai{
+  background-color: black;
+}
+#gk{
+  background-color: black;
+}
+#sc{
+  background-color: black;
+}
+#ma{
+  background-color: black;
+}
 #ai:hover {
-  background-color: green;
+  background-color: white;
+  color:black;
 }
 #gk:hover {
-  background-color: green;
+  background-color: white;
+  color:black;
 }
 #sc:hover {
-  background-color: green;
+ background-color: white;
+  color:black;
 }
 #ma:hover {
-  background-color: green;
+  background-color: white;
+  color:black;
 }
 #questions-container {
   background-color: rgb(86, 71, 200);
