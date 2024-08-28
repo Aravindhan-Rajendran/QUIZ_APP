@@ -358,6 +358,10 @@ let selectedOption;
 let sectionIndex;
 let currentIndex = 0;
 let score = 0;
+let btns=document.getElementById("btns");
+btns.addEventListener("click",function(){
+  
+})
 gkques.addEventListener("click", function () {
   sectionIndex = 0;
   questioncon.style.display = "";
